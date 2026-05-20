@@ -63,7 +63,7 @@ I'm a fullstack developer with **5+ years of experience** shipping products acro
 | **FIFGROUP (ASTRA)** — Internal Asset Management | Solo Fullstack | React.js, Java Spring Boot | Replaced manual cross-branch asset tracking |
 | **comika.media** — Comedy Media Platform | Fullstack (Vendor) | Next.js, Express.js, Midtrans | Subscription + merchandise checkout |
 | **EM Apps — UB Student Portal** | Product Owner | CodeIgniter, REST API | 20,000+ active users |
-
+ 
 ---
 
 ## Side Projects & Experiments
