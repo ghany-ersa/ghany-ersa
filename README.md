@@ -78,17 +78,6 @@ I'm a fullstack developer with **5+ years of experience** shipping products acro
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghany-ersa&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghany-ersa&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm open to **freelance projects**, **fulltime roles**, and interesting **collaborations**.
